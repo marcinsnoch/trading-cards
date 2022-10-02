@@ -1,0 +1,204 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Trading Card\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-02 07:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: trading-cards\n"
+"X-Poedit-KeywordsList: __;_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/trading_cards_fields.php:7
+msgid "Card details"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:7
+#: includes/trading_cards_post_type.php:9
+#: includes/trading_cards_post_type.php:10
+#: includes/trading_cards_taxonomy.php:7
+msgid "Trading cards"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:8
+#: includes/trading_cards_post_type.php:42
+#: includes/trading_cards_taxonomy.php:8
+msgid "Trading card"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:11
+msgid "Card Archives"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:12
+msgid "Card Attributes"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:13
+msgid "Parent Card:"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:14
+msgid "All Cards"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:15
+msgid "Add New Card"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:16
+msgid "Add New"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:17
+msgid "New Card"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:18
+msgid "Edit Card"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:19
+msgid "Update Card"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:20
+msgid "View Card"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:21
+msgid "View Cards"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:22
+msgid "Search Card"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:23
+msgid "Not found"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:24
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:25
+msgid "Featured Image"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:26
+msgid "Set featured image"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:27
+msgid "Remove featured image"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:28
+msgid "Use as featured image"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:29
+msgid "Insert into item"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:30
+msgid "Uploaded to this item"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:31
+msgid "Cards list"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:32
+msgid "Cards list navigation"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:33
+msgid "Filter items list"
+msgstr ""
+
+#: includes/trading_cards_post_type.php:43
+msgid "Trading card collections"
+msgstr ""
+
+#: includes/trading_cards_taxonomy.php:9
+msgid "Card categories"
+msgstr ""
+
+#: includes/trading_cards_taxonomy.php:10
+msgid "All Categories"
+msgstr ""
+
+#: includes/trading_cards_taxonomy.php:11
+msgid "Parent Category"
+msgstr ""
+
+#: includes/trading_cards_taxonomy.php:12
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/trading_cards_taxonomy.php:13
+msgid "New Category Name"
+msgstr ""
+
+#: includes/trading_cards_taxonomy.php:14
+msgid "Add New Category"
+msgstr ""
+
+#: includes/trading_cards_taxonomy.php:15
+msgid "Edit Category"
+msgstr ""
+
+#: includes/trading_cards_taxonomy.php:16
+msgid "Update Category"
+msgstr ""
+
+#: includes/trading_cards_taxonomy.php:17
+msgid "View Category"
+msgstr ""
+
+#: includes/trading_cards_taxonomy.php:18
+msgid "Separate items with commas"
+msgstr ""
+
+#: includes/trading_cards_taxonomy.php:19
+msgid "Add or remove items"
+msgstr ""
+
+#: includes/trading_cards_taxonomy.php:20
+msgid "Choose from the most used"
+msgstr ""
+
+#: includes/trading_cards_taxonomy.php:21
+msgid "Popular Categories"
+msgstr ""
+
+#: includes/trading_cards_taxonomy.php:22
+msgid "Search Categories"
+msgstr ""
+
+#: includes/trading_cards_taxonomy.php:23
+msgid "Not Found"
+msgstr ""
+
+#: includes/trading_cards_taxonomy.php:24
+msgid "No items"
+msgstr ""
+
+#: includes/trading_cards_taxonomy.php:25
+msgid "Categories list"
+msgstr ""
+
+#: includes/trading_cards_taxonomy.php:26
+msgid "Categories list navigation"
+msgstr ""
